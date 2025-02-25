@@ -1,2 +1,2 @@
 # FP2-26
-This repository is for my Foundations Program
+This repository is for my Final Foundations Project.
