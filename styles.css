@@ -1,0 +1,133 @@
+
+.header  {
+    font-family: monospace;
+    background:#0cc0df;
+    display: flex;
+    justify-content: center;
+    align-items:flex-start;
+    justify-content: space-around;
+  }
+ 
+  ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    justify-content: space-around;
+  }
+ 
+  a {
+    font-size: 22px;
+    background: white;
+    padding: 8px;
+    text-decoration: none;
+    margin-right: 12px;
+  }
+
+.flex-container{
+  display: flex-box;
+  border: 2px;
+  height: auto;
+  flex: 1;
+  flex-direction: row;
+  display: flex;
+  justify-content: center;
+  align-items:flex-start;
+  justify-content: space-around;
+  }
+
+.flex-container2{
+  display: flex-box;
+  border: 2px;
+  height:auto;
+  flex: 1;
+  flex-direction: row;
+  display: flex;
+  justify-content: center;
+  align-items:flex-start;
+  justify-content: space-around;
+}
+
+.home{
+  border: 2px solid black;
+  height: 450px;
+  width: 450px;
+  padding: 10px;
+  background: white;
+}
+h2{
+  text-align: center;
+}
+p{
+  text-align: center;
+  font-size: 16px;
+}
+.about{
+  border: 2px solid black;
+  height: 450px;
+  width: 450px;
+  padding: 10px;
+  background: white;
+}
+.projects{
+  border: 2px solid black;
+  height: 450px;
+  width: 450px;
+  padding: 10px;
+  background: white;
+}
+
+.contact{
+  display: flexbox;
+  align-items: center;
+  border-style: solid;
+  border-width: 2px;
+  border: center;
+  height: 450px;
+  width: 450px;
+  padding: 10px;
+  background: white;
+}
+
+.p1{
+  display: flexbox;
+  align-items: center;
+  border-style: solid;
+  border-width: 2px;
+  border: center;
+  border-color: black;
+  background:#0cc0df;
+  ;
+}
+
+.p2{
+  display: flexbox;
+  align-items: center;
+  border-style: solid;
+  border-width: 2px;
+  border: center;
+  border-color: black;
+  background:#0cc0df;
+  }
+
+.name{
+  display:flex;
+  text-align: center;
+}
+
+.email{
+  display:flex;
+}
+
+.message{
+  display:flex;
+}
+
+.extra{
+  display:flex;
+  background-color:#0cc0df;
+}
+
+body{
+  background: black;
+}
