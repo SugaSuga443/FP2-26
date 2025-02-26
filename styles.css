@@ -4,7 +4,7 @@
     background:#0cc0df;
     display: flex;
     justify-content: center;
-    align-items:flex-start;
+    align-items: center;
     justify-content: space-around;
   }
  
@@ -18,7 +18,7 @@
  
   a {
     font-size: 22px;
-    background: white;
+    background: #0cc0df;
     padding: 8px;
     text-decoration: none;
     margin-right: 12px;
@@ -110,6 +110,16 @@ p{
   background:#0cc0df;
   }
 
+  .p3{
+    display: flexbox;
+    align-items: center;
+    border-style: solid;
+    border-width: 2px;
+    border: center;
+    border-color: black;
+    background:#0cc0df;
+    }
+    
 .name{
   display:flex;
   text-align: center;
@@ -130,4 +140,11 @@ p{
 
 body{
   background: black;
+}
+.logo{
+  height: 100px;
+  display: flex;
+    justify-content: center;
+    align-items:flex-start;
+    justify-content: space-around;
 }
